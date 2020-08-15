@@ -47,14 +47,6 @@
 #define     NOV     30
 #define     DEC     31
 
-
-
-
-
-
-
-
-
 // ７セグメント桁番号
 #define   DIG_1     0
 #define   DIG_2     1
